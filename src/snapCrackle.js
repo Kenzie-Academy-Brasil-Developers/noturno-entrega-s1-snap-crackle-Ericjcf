@@ -1,3 +1,4 @@
+// versão sem primo
 function snapCrackle(maxvalue) {
 
   let retorno = []
@@ -21,3 +22,5 @@ function snapCrackle(maxvalue) {
 return retorno;
 }
 console.log(snapCrackle(10))
+
+// teste da versão com primo
